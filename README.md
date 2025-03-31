@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Srivardhan Rao </h1>
 <h3 align="center">Tech Maestro ⚡ | Software Engineer | Full-Stack Wizard | Competitive Coding Enthusiast | Lifelong Learner 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lord2anil&label=Profile%20views&color=0e75b6&style=flat" alt="lord2anil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivardhan123&label=Profile%20views&color=0e75b6&style=flat" alt="srivardhan123" /> </p>
 
 - 🚀 Building innovative solutions with React, Node.js, Haskell, Rescript, Javascript, Python, and C++! 
-- 🔗 Explore my work here: [https://myportfolio-xi-self.vercel.app/] (https://myportfolio-xi-self.vercel.app/)
+- 🔗 Explore my work here: [https://myportfolio-xi-self.vercel.app/](https://myportfolio-xi-self.vercel.app/)
 - 📩 Let’s connect! Reach me at srivardhanrao9009@gmail.com or 7893142313 for collaborations or tech talk.
-- 📝 Discover my journey & experiences: [https://drive.google.com/file/d/19BbK2Wgrq7hkwfB4GonWAbazEGaETYzn/view] (https://drive.google.com/file/d/19BbK2Wgrq7hkwfB4GonWAbazEGaETYzn/view)
+- 📝 Discover my journey & experiences: [https://drive.google.com/file/d/19BbK2Wgrq7hkwfB4GonWAbazEGaETYzn/view](https://drive.google.com/file/d/19BbK2Wgrq7hkwfB4GonWAbazEGaETYzn/view)
 
 
 <h3 align="left">Connect with me:</h3>
